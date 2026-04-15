@@ -55,15 +55,15 @@
 */
 const messages = [
     "Kamu Yakin?",
-    "Gamau Maafin Mas??",
-    "Are you sure?",
-    "Sayanggg please...",
-    "Just think about it!",
-    "Jika Kamu Ga Maafing Mas, Mas Bakal Sedihhh...",
-    "Mas Bakal Sedih Bangettt...",
-    "Mas Bakal Sedih Sedih Bangettttttttt...",
-    "Ok fine, Mas Bakal Stop Nanyaaa...",
-    "Just kidding Sayanggg, say yes please! ❤️"
+    "Gamau Maafin Aku??",
+    "Serius mbaaaa?",
+    "Mbaaa sitaaa please...",
+    "Coba pikir pikir lagi mbaa!",
+    "Jika Kamu Ga Maafing Aku, Aku Bakal Sedihhh😢...",
+    "Aku Bakal Sedih Bangettt mbaaaa😭...",
+    "Aku Bakal Sedih Sedih Bangettttttttt😭😭😭...",
+    "Ok fine, AAku Bakal Stop Nanyaaa...",
+    "Bercanda Mbaaaa 😭, maafin aku yaa plisss! 🌹"
 ];
 
 let messageIndex = 0;
